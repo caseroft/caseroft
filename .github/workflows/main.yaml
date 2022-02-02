@@ -18,7 +18,7 @@ jobs:
           # Options
           user: caseroft
           template: classic
-          base: header, activity, community, repositories, metadata
+          base: ""
           config_timezone: America/Argentina/Buenos_Aires
           plugin_followup: yes
           plugin_followup_sections: repositories
